@@ -1,0 +1,103 @@
+S No,SSA,Release Date,Cohort Name,NPS Type,Promoters,Passive,Detractors,Cohort Size,NPS Score,Responses,Response %,Category
+1,Ajil,12 March 2026,End-February 2026,EM,2,1,0,6,67%,3,50.00%,LevelUp
+2,Ajil,22 March 2026,End-February 2026,Week 5,0,0,0,1,0.00%,0,0.00%,LevelUp
+3,Ajil,12 April 2026,End-February 2026,Week 8,3,0,0,4,100%,3,75.00%,LevelUp
+4,Ajil,30 April 2026,Mid-April 2026,EM,3,0,0,4,100%,3,75.00%,LevelUp
+5,Ajil,17 May 2026,Mid-April 2026,Week 5,0,0,0,2,0.00%,0,0.00%,LevelUp
+6,Ajil,7 June 2026,Mid-April 2026,Week 8,0,0,0,10,0.00%,0,0.00%,LevelUp
+7,Anjali,26 March 2026,Mid-March 2026,EM,1,0,0,1,100%,1,100.00%,LevelUp
+8,Anjali,5 April 2026,Mid-March 2026,Week 5,1,0,0,2,100%,1,50.00%,LevelUp
+9,Anjali,26 April 2026,Mid-March 2026,Week 8,1,0,0,4,100%,1,25.00%,LevelUp
+10,Anjali,14 May 2026,End-April 2026,EM,2,0,0,3,100%,2,66.67%,LevelUp
+11,Anjali,31 May 2026,End-April 2026,Week 5,0,0,0,0,0.00%,0,0.00%,LevelUp
+12,Anwesh,15 March 2026,End-January 2026,Week 8,5,1,0,11,83%,6,54.55%,LevelUp
+13,Anwesh,19 March 2026,Early-March 2026,EM,0,1,0,13,0%,1,7.69%,LevelUp
+14,Anwesh,5 April 2026,Early-March 2026,Week 5,4,1,2,11,29%,7,63.64%,LevelUp
+15,Anwesh,26 April 2026,Early-March 2026,Week 8,5,0,0,8,100%,5,62.50%,LevelUp
+16,Arshia,22 March 2026,2nd Mid-February 2026,Week 5,0,0,0,1,0.00%,0,0.00%,LevelUp
+17,Arshia,12 April 2026,2nd Mid-February 2026,Week 8,5,1,0,8,83%,6,75.00%,LevelUp
+18,Arshia,23 April 2026,Early-April 2026,EM,6,0,0,7,100%,6,85.71%,LevelUp
+19,Arshia,3 May 2026,Early-April 2026,Week 5,2,2,1,11,20%,5,45.45%,LevelUp
+20,Safoora,24 May 2026,Early-April 2026,Week 8,1,0,0,14,100%,1,7.14%,LevelUp
+21,Disha,15 March 2026,2nd Mid-January 2026,Week 8,5,0,0,5,100%,5,100.00%,LevelUp
+22,Disha,9 April 2026,End-March 2026,EM,0,0,0,0,0.00%,0,0.00%,LevelUp
+23,Disha,19 April 2026,End-March 2026,Week 5,2,0,0,2,100%,2,100.00%,LevelUp
+24,Disha,10 May 2026,End-March 2026,Week 8,5,1,0,6,83%,6,100.00%,LevelUp
+25,Disha,4 June 2026,Mid-May 2026,EM,2,0,0,4,100%,2,50.00%,LevelUp
+26,Kamal,29 March 2026,Early-February 2026,Week 8,9,0,0,12,100%,9,75.00%,LevelUp
+27,Pragya,29 March 2026,Mid-February 2026,Week 8,3,0,0,5,100%,3,60.00%,LevelUp
+28,Pragya,2 April 2026,2nd Mid-March 2026,EM,4,0,0,4,100%,4,100.00%,LevelUp
+29,Pragya,16 April 2026,2nd End-March 2026,EM,6,0,1,10,71%,7,70.00%,LevelUp
+30,Pragya,19 April 2026,2nd Mid-March 2026,Week 5,2,0,0,2,100%,2,100.00%,LevelUp
+31,Pragya,3 May 2026,2nd End-March 2026,Week 5,2,0,0,2,100%,2,100.00%,LevelUp
+32,Pragya,10 May 2026,2nd Mid-March 2026,Week 8,4,1,0,8,80%,5,62.50%,LevelUp
+33,Pragya,24 May 2026,2nd End-March 2026,Week 8,1,0,0,5,100%,1,20.00%,LevelUp
+34,Samarth,28 May 2026,Early-May 2026,EM,1,3,0,9,25%,4,44.44%,LevelUp
+35,Samarth,31 May 2026,Early-May 2026,Week 5,0,0,0,2,0.00%,0,0.00%,LevelUp
+36,Sanjana,7 May 2026,2nd Mid-April 2026,EM,4,0,0,5,100%,4,80.00%,LevelUp
+37,Sanjana,17 May 2026,2nd Mid-April 2026,Week 5,0,0,0,0,0.00%,0,0.00%,LevelUp
+38,Sanjana,7 June 2026,2nd Mid-April 2026,Week 8,1,0,0,3,100%,1,33.33%,LevelUp
+,Team,Q2,Team NPS - Level Up,,92,12,4,205,81%,108,53%,Total LevelUp
+1,Samarth,29 March 2026,Machine Learning Program - Mid-August 2025,NPS 2,11,3,2,34,56%,16,47.06%,Switchup
+2,Samarth,7 June 2026,Machine Learning Program - Mid-March 2026,NPS 1,3,3,2,27,13%,8,29.63%,Switchup
+3,Kamal,22 March 2026,Machine Learning Program - Mid-December 2025,NPS 1,13,4,2,32,58%,19,59.38%,Switchup
+4,Kamal,24 May 2026,Advanced Machine Learning Program - End-August 2025,NPS 2,10,0,2,25,67%,12,48.00%,Switchup
+5,Anwesh,22 March 2026,Advanced Machine Learning Program - End-May 2025,NPS 2,5,2,1,15,50%,8,53.33%,Switchup
+6,Anjali,5 April 2026,Machine Learning Program - Mid-January 2026,NPS 1,12,3,1,29,69%,16,55.17%,Switchup
+7,Sanjana,12 April 2026,Advanced Machine Learning Program - End-November 2025,NPS 1,10,4,1,22,60%,15,68.18%,Switchup
+8,Sanjana,19 April 2026,Advanced Machine Learning Program - Mid-July 2025,NPS 2,9,4,0,25,69%,13,52.00%,Switchup
+9,Sanjana,3 May 2026,Machine Learning Program - Mid-February 2026,NPS 1,19,4,2,39,68%,25,64.10%,Switchup
+10,Pragya,10 May 2026,Machine Learning Program - Mid-October 2025,NPS 2,8,3,1,29,58%,12,41.38%,Switchup
+11,Disha,19 April 2026,Machine Learning Program - Mid-September 2025,NPS 2,19,0,1,36,90%,20,55.56%,Switchup
+12,Ajil,7 June 2026,Advanced Machine Learning Program - Early-February 2026,NPS 1,5,1,1,34,57%,7,20.59%,Switchup
+,Team,Q2,Team NPS - Switch Up,,124,31,16,347,63%,171,49%,Total Switchup
+1,Archi,22-Mar-2026,Applied Agentic AI - Early-December 2025,NPS 2,7,1,1,21,67%,9,42.86%,Agentic
+2,Archi,22-Mar-2026,Applied Agentic AI for EM's - Early-December 2025,NPS 2,4,1,2,12,29%,7,58.33%,Agentic
+3,Archi,10-May-2026,Applied Agentic AI for SWEs - 2nd Mid-April 2026,NPS 1,10,5,3,43,39%,18,41.86%,Agentic
+5,Ajil,17 May 2026,Applied Agentic AI for EM's - Early-February 2026,NPS 2,0,2,0,9,0%,2,22.22%,Agentic
+33,Ajil,31-May-2026,Applied Agentic AI for SWEs - Mid-February 2026,NPS 2,2,0,0,13,100%,2,15.38%,Agentic
+6,Arush,15 March 2026,Applied Agentic AI for SWEs - 2nd Mid-February 2026,NPS 1,14,2,1,34,76%,17,50.00%,Agentic
+7,Arush,19 April 2026,Applied Agentic AI for SWEs - 2nd Mid-February 2026,NPS 2,8,3,1,36,58%,12,33.33%,Agentic
+8,Samarth,10 May 2026,Applied Agentic AI for SWEs - Early-February 2026,NPS 2,8,5,3,29,31%,16,55.17%,Agentic
+9,Sanjana,31 May 2026,Applied Agentic AI for SWEs - Early-May 2026,NPS 1,5,3,0,49,63%,8,16.33%,Agentic
+10,Anwesh,26 April 2026,Applied Agentic AI for SWEs - Early-April 2026,NPS 1,7,7,3,44,24%,17,38.64%,Agentic
+11,Manish,19-Apr-2026,Applied Agentic AI for SWEs - 2nd End-March 2026,NPS 1,6,4,1,35,45%,11,31.43%,Agentic
+12,Manish,31-May-2026,Applied Agentic AI - Early-May 2026,NPS 1,3,4,3,31,0%,10,32.26%,Agentic
+51,Manish,7-Jun-2026,Applied Agentic AI for EM's - Early-April 2026,NPS 2,0,0,0,23,0.00%,0,0.00%,Agentic
+14,Nishtha,5-Apr-2026,Applied Agentic AI for SWEs - 2nd Mid-March 2026,NPS 1,19,4,3,52,62%,26,50.00%,Agentic
+15,Nishtha,5-Apr-2026,Applied Agentic AI - Early-January 2026,NPS 2,9,0,2,23,64%,11,47.83%,Agentic
+16,Nishtha,5-Apr-2026,Applied Agentic AI for EM's - Early-January 2026,NPS 2,6,1,0,10,86%,7,70.00%,Agentic
+17,Nishtha,10-May-2026,Applied Agentic AI for EM's - 2nd Mid-April 2026,NPS 1,4,3,2,31,22%,9,29.03%,Agentic
+18,Nishtha,17-May-2026,Applied Agentic AI - 2nd Mid-April 2026,NPS 1,2,0,0,22,100%,2,9.09%,Agentic
+19,Nishtha,17-May-2026,Applied Agentic AI for SWEs - 2nd Mid-March 2026,NPS 2,5,1,2,45,38%,8,17.78%,Agentic
+20,Safoora,22-Mar-2026,Applied Agentic AI - Early-March 2026,NPS 1,5,1,6,23,-8%,12,52.17%,Agentic
+21,Safoora,22-Mar-2026,Applied Agentic AI for EM's - Early-March 2026,NPS 1,5,3,1,18,44%,9,50.00%,Agentic
+22,Safoora,26-Apr-2026,Applied Agentic AI for SWEs - 2nd Mid-January 2026,NPS 2,5,2,2,32,33%,9,28.13%,Agentic
+23,Safoora,3-May-2026,Applied Agentic AI - Early-March 2026,NPS 2,2,0,6,28,-50%,8,28.57%,Agentic
+24,Safoora,3-May-2026,Applied Agentic AI for EM's - Early-March 2026,NPS 2,6,2,1,21,56%,9,42.86%,Agentic
+25,Sharon,5-Apr-2026,Applied Agentic AI - 2nd Mid-March 2026,NPS 1,11,3,1,21,67%,15,71.43%,Agentic
+26,Sharon,5-Apr-2026,Applied Agentic AI for EM's - 2nd Mid-March 2026,NPS 1,4,2,2,12,25%,8,66.67%,Agentic
+27,Sharon,19-Apr-2026,Applied Agentic AI for SWEs - Early-January 2026,NPS 2,16,0,2,44,78%,18,40.91%,Agentic
+28,Sharon,3-May-2026,Applied Agentic AI for SWEs - Mid-April 2026,NPS 1,15,1,1,30,82%,17,56.67%,Agentic
+29,Sharon,31-May-2026,Applied Agentic AI - 2nd Mid-March 2026,NPS 2,6,3,1,18,50%,10,55.56%,Agentic
+30,Sharon,17-May-2026,Applied Agentic AI for EM's - 2nd Mid-March 2026,NPS 2,4,1,0,10,80%,5,50.00%,Agentic
+31,Sudhanshu,5-Apr-2026,Applied Agentic AI for SWEs - 2nd Mid-December 2025,NPS 2,6,5,3,50,21%,14,28.00%,Agentic
+32,Suraj,15-Mar-2026,Applied Agentic AI - 2nd Mid-February 2026,NPS 1,13,2,2,31,65%,17,54.84%,Agentic
+33,Suraj,15-Mar-2026,Applied Agentic AI for EM's - 2nd Mid-February 2026,NPS 1,2,1,4,15,-29%,7,46.67%,Agentic
+34,Suraj,5-Apr-2026,Applied Agentic AI for SWEs - Early-December 2025,NPS 2,9,3,0,40,75%,12,30.00%,Agentic
+35,Suraj,19-Apr-2026,Applied Agentic AI - 2nd Mid-February 2026,NPS 2,6,3,1,30,50%,10,33.33%,Agentic
+36,Suraj,19-Apr-2026,Applied Agentic AI for EM's - 2nd Mid-February 2026,NPS 2,1,2,2,13,-20%,5,38.46%,Agentic
+37,Suraj,26-Apr-2026,Applied Agentic AI - 2nd Mid-January 2026,NPS 2,7,2,1,22,60%,10,45.45%,Agentic
+38,Suraj,26-Apr-2026,Applied Agentic AI for EM's - 2nd Mid-January 2026,NPS 2,2,4,3,20,-11%,9,45.00%,Agentic
+39,Suraj,7-Jun-2026,Applied Agentic AI for SWEs - Mid-May 2026,NPS 1,3,3,4,36,-10%,10,27.78%,Agentic
+40,Suraj,17 May 2026,Applied Agentic AI - Early-February 2026,NPS 2,2,2,1,14,20%,5,35.71%,Agentic
+41,Zeeshan,22-Mar-2026,Applied Agentic AI for SWEs - Early-March 2026,NPS 1,12,7,2,40,48%,21,52.50%,Agentic
+42,Zeeshan,29-Mar-2026,Applied Agentic AI - 2nd Mid-December 2025,NPS 2,3,0,1,16,50%,4,25.00%,Agentic
+43,Zeeshan,29-Mar-2026,Applied Agentic AI for EM's - 2nd Mid-December 2025,NPS 2,1,0,0,5,100%,1,20.00%,Agentic
+44,Zeeshan,26-Apr-2026,Applied Agentic AI - Early-April 2026,NPS 1,13,2,2,38,65%,17,44.74%,Agentic
+45,Zeeshan,26-Apr-2026,Applied Agentic AI for EM's - Early-April 2026,NPS 1,6,3,2,23,36%,11,47.83%,Agentic
+46,Zeeshan,3-May-2026,Applied Agentic AI for SWEs - Early-March 2026,NPS 2,9,4,1,54,57%,14,25.93%,Agentic
+,Team,Q2,Team NPS - Agentic AI,,293,107,79,1266,45%,479,38%,Total Agentic
+1,Kamal,,,NPS 1,5,1,9,53,-27%,15,28.30%,Fastrack
+2,Anwesh,,,NPS 1,3,3,3,54,0%,9,16.67%,Fastrack
+,Team,Q2,Team NPS - Fastrack,,8,4,12,107,-17%,24,22%,Total Fastrack
