@@ -307,3 +307,58 @@ def chart_nps_round_delta(df):
     fig.update_layout(title="NPS Improvement: NPS 2 minus NPS 1 by SSA",
                       xaxis_title="NPS Delta", **layout)
     return fig
+
+
+# ── 11. NPS by Cohort ─────────────────────────────────────────────────────
+
+def chart_nps_by_cohort(df):
+    """NPS per cohort — shows which cohorts are performing well."""
+    grp = df[df["Responses"]>0].groupby(["Cohort Name","Category"]).apply(
+        lambda x: pd.Series({
+            "NPS": round((x["Promoters"].sum()-x["Detractors"].sum())/x["Responses"].sum()*100,1),
+            "Responses": int(x["Responses"].sum()),
+            "Cohort Size": int(x["Cohort Size"].sum()),
+        })).reset_index().sort_values("NPS", ascending=True)
+
+    colors = [_nps_colour(s) for s in grp["NPS"]]
+    fig = go.Figure(go.Bar(
+        y=[f"{r['Cohort Name']} ({r['Category']})" for _,r in grp.iterrows()],
+        x=grp["NPS"], orientation="h",
+        marker_color=colors, opacity=0.88,
+        text=[f"NPS: {n}  Resp: {r}/{c}" for n,r,c in
+              zip(grp["NPS"],grp["Responses"],grp["Cohort Size"])],
+        textposition="outside", cliponaxis=False))
+    layout = {**CHART_LAYOUT}
+    layout["height"] = max(300, len(grp)*32)
+    layout["margin"] = dict(l=200, r=200, t=40, b=10)
+    fig.add_vline(x=0, line_dash="dash", line_color=C_SLATE, line_width=1)
+    fig.update_xaxes(range=[-100, 160])
+    fig.update_layout(title="NPS by Cohort & Category",
+                      xaxis_title="NPS Score", **layout)
+    return fig
+
+
+def chart_cohort_response(df):
+    """Response rate per cohort — flags low-engagement cohorts."""
+    grp = df.groupby(["Cohort Name","Category"]).agg(
+        Responses=("Responses","sum"),
+        CohortSize=("Cohort Size","sum")).reset_index()
+    grp["Resp_pct"] = (grp["Responses"]/grp["CohortSize"]*100).round(1)
+    grp = grp.sort_values("Resp_pct", ascending=True)
+
+    colors = [C_GREEN if v>=50 else C_AMBER if v>=30 else C_RED for v in grp["Resp_pct"]]
+    fig = go.Figure(go.Bar(
+        y=[f"{r['Cohort Name']} ({r['Category']})" for _,r in grp.iterrows()],
+        x=grp["Resp_pct"], orientation="h",
+        marker_color=colors, opacity=0.88,
+        text=[f"{v}%  ({int(r)}/{int(c)})" for v,r,c in
+              zip(grp["Resp_pct"],grp["Responses"],grp["CohortSize"])],
+        textposition="outside", cliponaxis=False))
+    layout = {**CHART_LAYOUT}
+    layout["height"] = max(300, len(grp)*32)
+    layout["margin"] = dict(l=200, r=180, t=40, b=10)
+    fig.add_vline(x=50, line_dash="dash", line_color=C_SLATE, line_width=1)
+    fig.update_xaxes(range=[0, 140])
+    fig.update_layout(title="Response Rate by Cohort & Category",
+                      xaxis_title="Response %", **layout)
+    return fig
