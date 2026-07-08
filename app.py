@@ -293,7 +293,7 @@ tab_main, tab_engagement = st.tabs(["📊 Refund Analysis", "🎯 Engagement Ana
 
 with tab_main:
     # CHAT ASSISTANT
-    st.markdown('<div class="section-header">💬 Ask about Refund Data</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-header">💬 How can I help you</div>', unsafe_allow_html=True)
     render_chat(df, "main")
     st.divider()
 
@@ -589,7 +589,7 @@ with tab_engagement:
             unsafe_allow_html=True)
 
     # CHAT ASSISTANT (ENGAGEMENT)
-    st.markdown('<div class="section-header">💬 Ask about Engagement Data</div>', unsafe_allow_html=True)
+    st.markdown('<div class="section-header">💬 How can I help you</div>', unsafe_allow_html=True)
     render_chat(df, "engagement")
     st.divider()
 
